@@ -1,0 +1,15 @@
+/* Add application styles & imports to this file! */
+@import url('https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css');
+* {
+  font-family: Lato;
+}
+body {
+  margin: 10px;
+}
+main{
+  padding: 20px;
+  background: #f3f3f3;
+}
+.text-center {
+  text-align: center;
+}
